@@ -5,6 +5,6 @@
 - *Programming Language (Python)*
 
 ### Social Links
-- Github: https://github.com/faizanscommunit
-- Fiverr: https://www.fiverr.com/faizanscommunit
+- Github:  https://github.com/faizanscommunit
+- Fiverr:  https://fvrr.co/3iZIX0L
 - Website: https://faizanscommunit.pythonanywhere.com/
